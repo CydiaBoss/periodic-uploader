@@ -1,0 +1,10 @@
+//--------------------------------------------------------//
+//                      uploads.txt                       //
+//                                                        //
+// Welcome to this file. Here you will enter the files    //
+// you wish to upload periodically. See the format below. //
+//--------------------------------------------------------//
+//                        Format                          //
+//                                                        //
+//        <Targeted File's Pathname>?<Destination>        //
+//--------------------------------------------------------//

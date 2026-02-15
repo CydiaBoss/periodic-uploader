@@ -1,0 +1,23 @@
+//--------------------------------------------------------//
+
+//                      uploads.txt                       //
+
+//                                                        //
+
+// Welcome to this file. Here you will enter the files    //
+
+// you wish to upload periodically. See the format below  //
+
+//--------------------------------------------------------//
+
+//                        Format                          //
+
+//                                                        //
+
+//  <Targeted File's Pathname>?<Destination w/ Filename>  //
+
+//--------------------------------------------------------//
+
+
+//Test.txt 
+C:\Users\andre\Desktop\Developer\Java\Other Projects\Uploader\Test.txt?C:\Users\andre\Desktop\Developer\Java\Other Projects\Uploader\Target\Test.txt
